@@ -1,5 +1,5 @@
 # Terraform EC2 Instance Example
-
+> main.tf -> jenkins
 ## 사용 방법
 
 1. **Terraform 초기화**
